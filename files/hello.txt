@@ -1,0 +1,6 @@
+Name: hello.txt
+Size of file: 16B
+File write time is Sun Jun 12 22:21:20 2022
+Created file with permissions: rw-rw-r--
+Owner...
+md5sum: 61a48c9efd95a1250d93e10931650db2

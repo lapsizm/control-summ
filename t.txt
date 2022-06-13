@@ -1,0 +1,12 @@
+Name: hello2.txt
+Size of file: 8B
+File write time is Sun Jun  5 12:13:07 2022
+Created file with permissions: rw-rw-r--
+Owner: kirill
+md5sum: f8c0a208f6f7c66d7d2ead04e1ae21b0
+Name: hello.txt
+Size of file: 168B
+File write time is Mon Jun 13 19:22:27 2022
+Created file with permissions: rw-rw-r--
+Owner: kirill
+md5sum: afa3f19c45eb4291b0b262d2bceedb86
